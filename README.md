@@ -21,3 +21,6 @@
 - [Invoking the Kubernetes REST API directly](https://kubernetes.io/docs/tasks/administer-cluster/access-cluster-api/)
 - [Kubernetes Secrets](https://kubernetes.io/docs/concepts/configuration/secret/), be aware that they are not encrypted. This can be enabled by following the steps at the top of the page
 -[Statefulset](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
+- [Custom resource definitions](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/)
+- [Sample custom controller](https://github.com/kubernetes/sample-controller/tree/master)
+- [Listing the supported API resources](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_api-resources/)
