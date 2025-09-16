@@ -43,3 +43,4 @@
 - [Cluster upgrades](https://docs.aws.amazon.com/eks/latest/best-practices/cluster-upgrades.html)
 - [EKS blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)
 - [EKS blueprints blog article](https://aws.amazon.com/blogs/containers/bootstrapping-clusters-with-eks-blueprints/)
+- [Rate limits on Docker Hub](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
