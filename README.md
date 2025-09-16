@@ -24,3 +24,4 @@
 - [Custom resource definitions](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/)
 - [Sample custom controller](https://github.com/kubernetes/sample-controller/tree/master)
 - [Listing the supported API resources](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_api-resources/)
+- [API operations for EKS](https://docs.aws.amazon.com/cli/latest/reference/eks/)
