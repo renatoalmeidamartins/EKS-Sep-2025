@@ -25,3 +25,5 @@
 - [Sample custom controller](https://github.com/kubernetes/sample-controller/tree/master)
 - [Listing the supported API resources](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_api-resources/)
 - [API operations for EKS](https://docs.aws.amazon.com/cli/latest/reference/eks/)
+- [Container Storage Interface - CSI - documentation](https://kubernetes-csi.github.io/docs/)
+- [CSI Driver for EBS volumes](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
