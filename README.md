@@ -40,3 +40,6 @@
 - [Installing eksctl](https://eksctl.io/installation/)
 - [Cordoning a node to avoid scheduling of pods in the node](kubernetes.io/docs/reference/kubectl/generated/kubectl_cordon/)
 - [Draining the node, to evict the pods sitting on this node](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_drain/)
+- [Cluster upgrades](https://docs.aws.amazon.com/eks/latest/best-practices/cluster-upgrades.html)
+- [EKS blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)
+- [EKS blueprints blog article](https://aws.amazon.com/blogs/containers/bootstrapping-clusters-with-eks-blueprints/)
