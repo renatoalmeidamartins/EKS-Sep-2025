@@ -30,3 +30,6 @@
 - [EKS control plane scaling](https://docs.aws.amazon.com/eks/latest/best-practices/scale-control-plane.html)
 - [Improvements for control plane scaling on EKS](https://aws.amazon.com/blogs/containers/amazon-eks-control-plane-auto-scaling-enhancements-improve-speed-by-4x/)
 - [EKS connector, which allows the management of externally-hosted Kubernetes cluster from EKS](https://eksctl.io/usage/eks-connector/)
+- [Kubernetes release cycle](https://kubernetes.io/releases/release/#the-release-cycle)
+- [Kubernetes patch releases, with all release dates](https://kubernetes.io/releases/patch-releases/)
+- [EKS standard and extended support](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
