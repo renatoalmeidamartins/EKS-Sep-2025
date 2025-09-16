@@ -37,3 +37,6 @@
 - [How to match pods to fargate "compute" sizes](https://docs.aws.amazon.com/eks/latest/userguide/fargate-pod-configuration.html)
 - [Admission controller](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/)
 - [MutatingAdmissionWebHook](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/#mutatingadmissionwebhook)
+- [Installing eksctl](https://eksctl.io/installation/)
+- [Cordoning a node to avoid scheduling of pods in the node](kubernetes.io/docs/reference/kubectl/generated/kubectl_cordon/)
+- [Draining the node, to evict the pods sitting on this node](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_drain/)
