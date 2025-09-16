@@ -18,3 +18,4 @@
 - [Minikube, another tool for setting up clusters](https://minikube.sigs.k8s.io/docs/)
 - [Taints and tolerations in the Kubernetes doc](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
 - [Persistent volumens and persistent volume claims, the way for a pod to decide the storage requirements for the node it can be sccheduled on](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)
+- [Invoking the Kubernetes REST API directly](https://kubernetes.io/docs/tasks/administer-cluster/access-cluster-api/)
