@@ -35,3 +35,5 @@
 - [EKS standard and extended support](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
 - [Defining a fargate profile](https://docs.aws.amazon.com/eks/latest/userguide/fargate-profile.html)
 - [How to match pods to fargate "compute" sizes](https://docs.aws.amazon.com/eks/latest/userguide/fargate-pod-configuration.html)
+- [Admission controller](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/)
+- [MutatingAdmissionWebHook](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/#mutatingadmissionwebhook)
