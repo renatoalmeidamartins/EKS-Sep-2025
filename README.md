@@ -16,3 +16,4 @@
 - [Kubernetes - the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Kuberadm - a tool for easier bootstrapping of kubernetes clusters](https://kubernetes.io/docs/reference/setup-tools/kubeadm/)
 - [Minikube, another tool for setting up clusters](https://minikube.sigs.k8s.io/docs/)
+- [Taints and tolerations in the Kubernetes doc](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
