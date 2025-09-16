@@ -7,3 +7,5 @@
 
 ## Day 1 links
 - [12 factor app](https://12factor.net/)
+- [Strangler fig pattern](https://martinfowler.com/bliki/StranglerFigApplication.html)
+- 
