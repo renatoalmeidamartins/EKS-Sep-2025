@@ -66,3 +66,5 @@
 - [topologySpreadConstraints](https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/), define how do you want to spread your pods across domains (zones, regions, nodes)
 - [cdk8s](https://cdk8s.io/), developing k8s artifacts through high level programming, instead of raw YAML.
 - [One definition of GitOps](https://about.gitlab.com/topics/gitops/)
+- [CNCF landscape, showing projects in all areas, and their CNCF "status"](https://landscape.cncf.io/)
+- [Flux](https://fluxcd.io/), another GitOps tool besides [Argo](https://argo-cd.readthedocs.io/en/stable/)
