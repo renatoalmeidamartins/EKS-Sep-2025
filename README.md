@@ -44,3 +44,10 @@
 - [EKS blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)
 - [EKS blueprints blog article](https://aws.amazon.com/blogs/containers/bootstrapping-clusters-with-eks-blueprints/)
 - [Rate limits on Docker Hub](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
+
+## Day 2 links
+- [Logging in to ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html)
+- [Clair, an open-source container-scanning tool](https://github.com/quay/clair?tab=readme-ov-file)
+- [Trivy, another interesting container-scanning tool](https://github.com/aquasecurity/trivy)
+- [Artifact hub, a public repo for Helm packages](https://artifacthub.io/)
+- [Helm landing page](https://helm.sh/)
