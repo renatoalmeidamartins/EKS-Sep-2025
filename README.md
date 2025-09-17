@@ -78,3 +78,4 @@
 - [Name resolution inside a cluster](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
 - [Fluent Bit outputs](https://docs.fluentbit.io/manual/data-pipeline/outputs)
 - [Announcement of built-in log collection in Fargate](https://aws.amazon.com/blogs/containers/fluent-bit-for-amazon-eks-on-aws-fargate-is-here/)
+- [Configuring log collection in Fargate](docs.aws.amazon.com/eks/latest/userguide/fargate-logging.html)
