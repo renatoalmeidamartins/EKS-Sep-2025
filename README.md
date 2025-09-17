@@ -61,3 +61,5 @@
 - [Vertical Pod Autoscaler limitations](https://github.com/kubernetes/autoscaler/blob/master/vertical-pod-autoscaler/docs/known-limitations.md)
 - [EKS auto-mode](https://docs.aws.amazon.com/eks/latest/best-practices/automode.html), brings benefits of Cluster auto-scaler and Karpenter
 - [EKS auto-mode, announced in re:Invent 2024](https://repost.aws/articles/ARD5LNyUs0SU62qRQcI-fV6A/aws-re-invent-2024-automate-your-entire-kubernetes-cluster-with-amazon-eks-auto-mode)
+- [Cluster auto-scaler auto-discovery](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler/cloudprovider/aws#auto-discovery-setup)
+- [Expanders](https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/FAQ.md#what-are-expanders), for defining priorities for which node group to use when adding nodes.
