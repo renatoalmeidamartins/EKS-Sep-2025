@@ -65,3 +65,4 @@
 - [Expanders](https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/FAQ.md#what-are-expanders), for defining priorities for which node group to use when adding nodes.
 - [topologySpreadConstraints](https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/), define how do you want to spread your pods across domains (zones, regions, nodes)
 - [cdk8s](https://cdk8s.io/), developing k8s artifacts through high level programming, instead of raw YAML.
+- [One definition of GitOps](https://about.gitlab.com/topics/gitops/)
