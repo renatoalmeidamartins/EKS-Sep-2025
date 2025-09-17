@@ -68,3 +68,5 @@
 - [One definition of GitOps](https://about.gitlab.com/topics/gitops/)
 - [CNCF landscape, showing projects in all areas, and their CNCF "status"](https://landscape.cncf.io/)
 - [Flux](https://fluxcd.io/), another GitOps tool besides [Argo](https://argo-cd.readthedocs.io/en/stable/)
+- [Network Policy](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
+- [Security Group for Pods](https://docs.aws.amazon.com/eks/latest/userguide/security-groups-for-pods.html)
