@@ -51,3 +51,8 @@
 - [Trivy, another interesting container-scanning tool](https://github.com/aquasecurity/trivy)
 - [Artifact hub, a public repo for Helm packages](https://artifacthub.io/)
 - [Helm landing page](https://helm.sh/)
+- [Karpenter](https://karpenter.sh/)
+- [Horizontal pod autoscaling](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+- [Vertical pod autoscaling](https://github.com/kubernetes/autoscaler/tree/9f87b78df0f1d6e142234bb32e8acbd71295585a/vertical-pod-autoscaler)
+- [Cluster autoscaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler)
+- 
