@@ -73,3 +73,5 @@
 - [Service types in Kubernetes doc](https://docs.aws.amazon.com/eks/latest/userguide/auto-configure-nlb.html#_commonly_used_annotations)
 - [Annotations available for LoadBalancer service type on EKS](https://docs.aws.amazon.com/eks/latest/userguide/auto-configure-nlb.html#_commonly_used_annotations)
 - [Differences between NLB, ALB and GLB](https://aws.amazon.com/compare/the-difference-between-the-difference-between-application-network-and-gateway-load-balancing/)
+- [Definition of Ingress from Kubernetes doc](https://kubernetes.io/docs/concepts/services-networking/ingress/) - notice it is based on an ingress controller
+- [Ingress controller from AWS creates an ALB](https://github.com/kubernetes-sigs/aws-load-balancer-controller#readme)
