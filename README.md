@@ -70,3 +70,5 @@
 - [Flux](https://fluxcd.io/), another GitOps tool besides [Argo](https://argo-cd.readthedocs.io/en/stable/)
 - [Network Policy](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 - [Security Group for Pods](https://docs.aws.amazon.com/eks/latest/userguide/security-groups-for-pods.html)
+- [Service types in Kubernetes doc](https://docs.aws.amazon.com/eks/latest/userguide/auto-configure-nlb.html#_commonly_used_annotations)
+- [Annotations available for LoadBalancer service type on EKS](https://docs.aws.amazon.com/eks/latest/userguide/auto-configure-nlb.html#_commonly_used_annotations)
