@@ -72,3 +72,4 @@
 - [Security Group for Pods](https://docs.aws.amazon.com/eks/latest/userguide/security-groups-for-pods.html)
 - [Service types in Kubernetes doc](https://docs.aws.amazon.com/eks/latest/userguide/auto-configure-nlb.html#_commonly_used_annotations)
 - [Annotations available for LoadBalancer service type on EKS](https://docs.aws.amazon.com/eks/latest/userguide/auto-configure-nlb.html#_commonly_used_annotations)
+- [Differences between NLB, ALB and GLB](https://aws.amazon.com/compare/the-difference-between-the-difference-between-application-network-and-gateway-load-balancing/)
