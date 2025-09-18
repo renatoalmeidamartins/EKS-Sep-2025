@@ -88,3 +88,5 @@
 - [Rotating secrets with Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotating-secrets.html), look at the [function templates](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html) for rotating the secrets in multiple scenarios.
 - [Secret store CSI driver](https://secrets-store-csi-driver.sigs.k8s.io/)
 - [GuardDuty detecting findings in EBS volumes](https://aws.amazon.com/blogs/aws/new-for-amazon-guardduty-malware-detection-for-amazon-ebs-volumes/)
+- [Granting IAM Users access to Kubernetes using a ConfigMap](https://docs.aws.amazon.com/eks/latest/userguide/auth-configmap.html), **deprecated**
+- [Access entries, replacement for the auth-configmap](https://docs.aws.amazon.com/eks/latest/userguide/access-entries.html)
