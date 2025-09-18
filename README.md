@@ -95,3 +95,4 @@
 - [Migrating from aws-auth ConfigMap to access entries](https://docs.aws.amazon.com/eks/latest/userguide/migrating-access-entries.html)
 - [Default kubernetes roles and role bindings](https://kubernetes.io/docs/reference/access-authn-authz/rbac/#default-roles-and-role-bindings)
 - [Default roles and users in EKS](https://docs.aws.amazon.com/eks/latest/userguide/default-roles-users.html)
+- [Using IRSA - IAM Role for Service Accounts](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html)
