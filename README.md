@@ -90,3 +90,5 @@
 - [GuardDuty detecting findings in EBS volumes](https://aws.amazon.com/blogs/aws/new-for-amazon-guardduty-malware-detection-for-amazon-ebs-volumes/)
 - [Granting IAM Users access to Kubernetes using a ConfigMap](https://docs.aws.amazon.com/eks/latest/userguide/auth-configmap.html), **deprecated**
 - [Access entries, replacement for the auth-configmap](https://docs.aws.amazon.com/eks/latest/userguide/access-entries.html)
+- [Authenticate to EKS using Entra - Azure AD](aws.amazon.com/blogs/containers/using-azure-active-directory-to-authenticate-to-amazon-eks/)
+- [IAM policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
