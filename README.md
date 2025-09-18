@@ -6,6 +6,9 @@
 - Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
 - You should see the class, with a button to evaluate
 
+## My contact info:
+- renatoalmeidamartins@gmail.com
+- Linkedin profile: https://www.linkedin.com/in/renatodealmeidamartins/
 ## Basic class links
 - [Access to labs](https://us-east-1.student.classrooms.aws.training/class/ilt%23993gWqWpH418btnNc7ndvY)
 - [Tech essentials class in Skill Builder](https://skillbuilder.aws/learn/K8C2FNZM6X/aws-technical-essentials/N7Q3SXQCDY)
