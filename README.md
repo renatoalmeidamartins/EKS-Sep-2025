@@ -80,3 +80,8 @@
 - [Announcement of built-in log collection in Fargate](https://aws.amazon.com/blogs/containers/fluent-bit-for-amazon-eks-on-aws-fargate-is-here/)
 - [Configuring log collection in Fargate](docs.aws.amazon.com/eks/latest/userguide/fargate-logging.html)
 - [CloudWatch logs infrequent access](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-logs-infrequent-access-log-class/)
+
+## Day 3
+- [EBS Multi-attach limitations](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volumes-multi.html#considerations)
+- [Persistent volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)
+- [EBS volume types](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html)
