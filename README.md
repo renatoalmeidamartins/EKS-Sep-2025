@@ -92,3 +92,6 @@
 - [Access entries, replacement for the auth-configmap](https://docs.aws.amazon.com/eks/latest/userguide/access-entries.html)
 - [Authenticate to EKS using Entra - Azure AD](aws.amazon.com/blogs/containers/using-azure-active-directory-to-authenticate-to-amazon-eks/)
 - [IAM policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
+- [Migrating from aws-auth ConfigMap to access entries](https://docs.aws.amazon.com/eks/latest/userguide/migrating-access-entries.html)
+- [Default kubernetes roles and role bindings](https://kubernetes.io/docs/reference/access-authn-authz/rbac/#default-roles-and-role-bindings)
+- [Default roles and users in EKS](https://docs.aws.amazon.com/eks/latest/userguide/default-roles-users.html)
