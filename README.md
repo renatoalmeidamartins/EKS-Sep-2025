@@ -85,3 +85,4 @@
 - [EBS Multi-attach limitations](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volumes-multi.html#considerations)
 - [Persistent volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)
 - [EBS volume types](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html)
+- [Rotating secrets with Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotating-secrets.html), look at the [function templates](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html) for rotating the secrets in multiple scenarios.
